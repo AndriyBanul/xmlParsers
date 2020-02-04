@@ -1,0 +1,18 @@
+<employees>
+    <employee id="111">
+        <firstName>Andrii</firstName>
+        <lastName>Banul</lastName>
+        <location>Ukraine</location>
+    </employee>
+    <employee id="222">
+        <firstName>James</firstName>
+        <lastName>Labron</lastName>
+        <location>USA</location>
+    </employee>
+    <employee id="333">
+        <firstName>Magnus</firstName>
+        <lastName>Carlsen</lastName>
+        <location>Norway</location>
+    </employee>
+</employees>
+
